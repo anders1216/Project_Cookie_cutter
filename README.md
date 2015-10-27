@@ -5,3 +5,6 @@ This project is a script which when run createz a directory sturcture for comput
 
 The script will make the followinf sub directories data results bin and manuscript
 
+Dependancies
+	1.
+
